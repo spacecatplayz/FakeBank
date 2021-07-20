@@ -1,2 +1,2 @@
 # FakeBank
-Fake banking systems
+Fake banking system for learning
